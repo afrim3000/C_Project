@@ -1,8 +1,11 @@
 #include <stdio.h>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 void main(){
     printf("Afrim");
 =======
+=======
+>>>>>>> Stashed changes
 
 
 int main(){
@@ -25,5 +28,8 @@ int main(){
      for(int i = 0; i<5; i++){
           printf("%d ",rev_arr[i]);
      }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 }
